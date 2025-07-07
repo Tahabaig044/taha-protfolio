@@ -17,8 +17,8 @@ const projects = [
     title: "Portfolio Website",
     description: "A responsive portfolio website built with Next.js",
     tags: ["Next.js", "Tailwind CSS", "Framer Motion"],
-    github: "#",
-    live: "",
+    github: "https://github.com/Tahabaig044/taha-protfolio",
+    live: "https://taha-protfolio.vercel.app",
     image: "/p2.png",
   },
   {
